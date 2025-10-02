@@ -53,7 +53,8 @@ Mi enfoque combina **rigurosidad científica, lógica, creatividad y visión ana
 ## 📫 Conecta conmigo  
 - 📍 Monterrey, México  
 - ✉️ [Email](mailto:zahidgonz4lez@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/zahid-gonzález-hernández-ds)  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahid_González_Hernández-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-gonzález-hernández-ds)
+  
 
 ---
 
