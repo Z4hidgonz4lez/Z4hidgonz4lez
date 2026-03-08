@@ -122,7 +122,5 @@ Monterrey, México
 LinkedIn
 https://www.linkedin.com/in/zahid-gonz%C3%A1lez-hern%C3%A1ndez-ds
 
-Email
-[zahidgonz4lez@gmail.com](mailto:zahidgonz4lez@gmail.com)
 
 
