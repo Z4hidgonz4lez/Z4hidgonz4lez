@@ -1,6 +1,6 @@
 # Zahid González Hernández
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZahidGonZ4lez-black?style=flat\&logo=github)](https://github.com/Z4hidgonz4lez)
+[![GitHub](https://img.shields.io/badge/GitHub-Z4hidgonz4lez-black?style=flat\&logo=github)](https://github.com/Z4hidgonz4lez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahid_González_Hernández-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/zahid-gonz%C3%A1lez-hern%C3%A1ndez-ds)
 [![Email](https://img.shields.io/badge/Email-Contacto-red?style=flat\&logo=gmail)](mailto:zahidgonz4lez@gmail.com)
 
@@ -8,38 +8,60 @@
 
 ## Sobre mí
 
-Soy egresado de **Física por la Universidad Autónoma de Nuevo León** y actualmente me estoy formando en **Ciencia de Datos**.
+Soy **analista de datos**, con formación profesional en **Ciencia de Datos en EBAC** y formación previa en **Física por la Universidad Autónoma de Nuevo León**.
 
-Me interesa analizar datos para comprender comportamientos, identificar patrones y generar información útil para la toma de decisiones. Disfruto trabajar con datos desde las primeras etapas del análisis: **limpieza, exploración, visualización y construcción de modelos básicos de machine learning**.
+Mi interés principal es analizar datos para comprender comportamientos, identificar patrones y generar información útil para la toma de decisiones. Disfruto trabajar con datos desde las primeras etapas del análisis: **limpieza de datos, exploración (EDA), visualización y construcción de modelos de machine learning**.
 
-Actualmente curso la certificación **Profesional Científico de Datos en EBAC**, donde desarrollo proyectos enfocados en análisis exploratorio, modelado y comunicación de resultados.
+Además de mi formación en análisis de datos, también cuento con formación en **desarrollo backend**, lo que me ha permitido fortalecer mis conocimientos en **programación, APIs, bases de datos y arquitectura de software**.
 
-En este perfil se encuentran proyectos donde documento el proceso completo de análisis: desde la comprensión del problema hasta la interpretación de resultados.
+En este perfil se encuentran distintos proyectos donde documento el flujo completo de trabajo en análisis de datos y desarrollo backend.
 
 ---
 
-## Herramientas y Tecnologías
+## Tecnologías y Herramientas
 
-### Lenguajes
+### Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 
-### Ciencia de Datos
+---
+
+### Ciencia de Datos y Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat\&logo=numpy)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-### Visualización y BI
+---
+
+### Análisis y Visualización de Datos
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 
-### Herramientas
+---
+
+### Desarrollo Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
+
+---
+
+### Bases de Datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite)
+
+---
+
+### Herramientas de Desarrollo
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
@@ -48,124 +70,48 @@ En este perfil se encuentran proyectos donde documento el proceso completo de an
 
 ---
 
-## Nivel de experiencia con herramientas
+## Proyectos
 
-Python
-████████░░ 80%
+En este repositorio se pueden encontrar distintos proyectos relacionados con:
 
-SQL
-██████░░░░ 60%
+**Análisis de datos**
 
-Machine Learning (Scikit-learn)
-██████░░░░ 60%
-
-Análisis de Datos (Pandas)
-████████░░ 80%
-
-Visualización de Datos
-██████░░░░ 60%
-
----
-
-## Proyectos de Ciencia de Datos
-
-### Predicción de diabetes
-
-**Objetivo**
-
-Analizar indicadores médicos para predecir el riesgo de diabetes en pacientes.
-
-**Qué se realizó**
-
-* Limpieza y preparación de datos
 * Análisis exploratorio de datos (EDA)
-* Comparación de modelos de clasificación
+* Limpieza y preparación de datasets
+* Visualización de datos
+* Modelos de machine learning supervisados
+* Interpretación de resultados y evaluación de métricas
 
-**Modelos utilizados**
+**Desarrollo backend**
 
-* Regresión Logística
-* Random Forest
-* Support Vector Machine
+* Construcción de APIs REST
+* Integración con bases de datos
+* Seguridad con autenticación JWT
+* Arquitectura de aplicaciones con Spring Boot
 
-**Métricas evaluadas**
-
-* Accuracy
-* Precision
-* Recall
-
-**Aprendizaje principal**
-
-Comprender cómo diferentes modelos responden ante datos médicos y cómo interpretar correctamente las métricas de evaluación.
-
----
-
-### Predicción de supervivencia en el Titanic
-
-**Objetivo**
-
-Identificar factores que influyeron en la supervivencia de los pasajeros.
-
-**Qué se analizó**
-
-* Variables demográficas
-* Clase del pasajero
-* Relaciones familiares
-
-**Técnicas utilizadas**
-
-* Limpieza de datos
-* Análisis exploratorio (EDA)
-* Modelos de clasificación
-
-**Modelos utilizados**
-
-* Regresión Logística
-* Árbol de decisión
-* Random Forest
-
-**Aprendizaje principal**
-
-Entender cómo el preprocesamiento de datos y la selección de variables impactan en el desempeño de los modelos.
-
----
-
-### Análisis sociodemográfico de México
-
-**Objetivo**
-
-Explorar datos públicos del INEGI para identificar patrones demográficos.
-
-**Qué se realizó**
-
-* Exploración de datos con Pandas
-* Visualización con Matplotlib
-* Identificación de tendencias regionales
-
-**Aprendizaje principal**
-
-La visualización permite detectar patrones relevantes y comunicar resultados de manera clara.
-
----
-
-## Proyectos de desarrollo backend
-
-Además de proyectos de análisis de datos, también he trabajado en algunos proyectos backend como parte de mi formación en programación.
+Algunos ejemplos de proyectos incluidos en este perfil:
 
 **LiterAlura**
-API REST desarrollada con Spring Boot que consume una API externa de libros y almacena los resultados en PostgreSQL.
+API REST desarrollada con Spring Boot que consume una API externa de libros y almacena la información en PostgreSQL.
 
 **ForoHub**
 Backend de foro con autenticación mediante JWT, base de datos MySQL y documentación con Swagger.
 
-Estos proyectos fortalecieron mi comprensión sobre **APIs, bases de datos y arquitectura de aplicaciones**.
+**apifor-main**
+API modular con arquitectura organizada, seguridad y migraciones SQL.
 
 ---
 
-## Estadísticas de GitHub
+## Enfoque de los proyectos de análisis de datos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z4hidgonz4lez\&show_icons=true\&hide_border=true)
+Los proyectos de ciencia de datos incluidos en este perfil siguen generalmente la siguiente estructura:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4hidgonz4lez\&layout=compact\&hide_border=true)
+* Comprensión del problema
+* Exploración y limpieza de datos
+* Análisis exploratorio (EDA)
+* Construcción de modelos
+* Evaluación de resultados
+* Interpretación de hallazgos
 
 ---
 
@@ -178,4 +124,5 @@ https://www.linkedin.com/in/zahid-gonz%C3%A1lez-hern%C3%A1ndez-ds
 
 Email
 [zahidgonz4lez@gmail.com](mailto:zahidgonz4lez@gmail.com)
+
 
