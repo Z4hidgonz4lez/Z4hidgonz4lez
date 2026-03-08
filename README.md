@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Z4hidgonz4lez-black?style=flat\&logo=github)](https://github.com/Z4hidgonz4lez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahid_González_Hernández-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/zahid-gonz%C3%A1lez-hern%C3%A1ndez-ds)
-[![Email](https://img.shields.io/badge/Email-Contacto-red?style=flat\&logo=gmail)](mailto:zahidgonz4lez@gmail.com)
+
 
 ---
 
